@@ -1,0 +1,18 @@
+.main{
+    flex-grow: 1;
+    padding: 30px 20px;
+    background-color: pink;
+}
+
+.businessEntities{
+    flex-grow: 1;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#map{
+    width: 600;
+    height: 450;
+}
