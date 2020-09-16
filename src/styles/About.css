@@ -1,0 +1,17 @@
+#about{
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutDesc{
+    flex-grow: 1;
+    margin: 50px;
+}
+
+#about img{
+    width: 400px;
+}
+
+.aboutDesc p{
+    text-indent: 1.5em;
+}
