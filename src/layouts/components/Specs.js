@@ -7,7 +7,8 @@ const Specs = () => {
         <span>Specjalizacje</span>
         <div className="specsBox">
             <div className="businessEntities specsList">
-                <span><i class="fas fa-landmark"></i> Podmioty Gospodarcze</span>
+                <div className="specsTitle"><i class="fas fa-landmark"></i> Podmioty Gospodarcze</div>
+               <br></br>
                 <ul>
                     <li>Rejestracja podmiotów gospodarczych</li>
                     <li>Bieżąca obsługa prawna</li>
@@ -19,10 +20,13 @@ const Specs = () => {
                 </ul>
             </div>
             <div className="dueDilligence specsList">
-                <span><i class="fas fa-donate"></i> Due Dilligence</span>
+                <div className="specsTitle"><i class="fas fa-donate"></i> Due Dilligence</div>
+                <br></br>
                 <ul>
                     <li>Wielopłaszczyznowa analiza przedsiębiorstw</li>
-                    <li>Analiza prawna, finansowa, podatkowa</li>
+                    <li>Analiza prawna</li>
+                    <li>Anliza prawna</li>
+                    <li>Analiza podatkowa</li>
                     <li>Określenie istniejącego i potencjalnego ryzyka związanego z planowaną transakcją kapitałową</li>
                     <li>Fuzje, przejęcia, łączenie spółek</li>
                     <li>Obsługa prawna restrukturyzacji przedsiębiorstw</li>

@@ -5,7 +5,9 @@
     background-attachment: fixed;
     background-position: left;
     background-size: 100% auto;
+    margin-top: 20px;
 }
+
 .specsBox{
     display: flex;
 }
@@ -14,5 +16,20 @@
     background-color:#DFDFDF;
     padding: 20px 20px;
     margin: 40px 10px;
-    width: 50%;
+    line-height: 1.6;
+}
+.dueDilligence{
+    width: 60%;
+}
+
+.dueDilligence .specsTitle{
+    margin-left: 35%;
+}
+.businessEntities .specsTitle{
+    margin-left: 20%;
+}
+
+.specsList ul{
+    list-style-type: disc;
+    padding-left: 30px;
 }
