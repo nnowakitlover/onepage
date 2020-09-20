@@ -1,12 +1,12 @@
 import React from 'react';
 import '../styles/Header.css';
-import AJ from '../img/AJ.jpg';
+import AJ from '../img/AJ2.jpg';
 
 const Header = () => {
     return (
         <div className="header">
-            <a href="#"><img alt="logo" src={AJ}></img></a>
-            <a href="#">Home</a>
+            <img className="logo" alt="logo" src={AJ}></img>
+            <a href="#home">Home</a>
             <a href="#about">O mnie</a>
             <a href="#specs">Specjalizacje</a>
             <a href="#clients">Klienci</a>

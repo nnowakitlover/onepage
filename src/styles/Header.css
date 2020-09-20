@@ -6,7 +6,7 @@
     flex-basis: 7vh;
     background-color: white;
     padding: 10px 10px 10px 10px;
-    height: 30vh;
+    min-height: fit-content;
 }
 
 .header a{
