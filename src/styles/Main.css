@@ -1,6 +1,7 @@
 .main{
     flex-grow: 1;
-    background-color: white;
+    padding: 30px 20px;
+    background-color: #eee;
 }
 
 .businessEntities{

@@ -1,6 +1,15 @@
 #about{
+    height: 100vh;
+}
+
+.aboutBox{
     display: flex;
     justify-content: space-between;
+}
+
+#about h3{
+    padding: 20px 0 20px 20px;
+    display: block;
 }
 
 .aboutDesc{

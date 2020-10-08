@@ -4,7 +4,7 @@ import '../../styles/Specs.css';
 const Specs = () => {
     return (
     <section id="specs">
-        <span>Specjalizacje</span>
+        <h3>Specjalizacje</h3>
         <div className="specsBox">
             <div className="businessEntities specsList">
                 <div className="specsTitle"><i class="fas fa-landmark"></i> Podmioty Gospodarcze</div>

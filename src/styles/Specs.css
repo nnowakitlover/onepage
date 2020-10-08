@@ -8,6 +8,10 @@
     margin-top: 20px;
 }
 
+#specs h3{
+    padding: 20px 0 0 20px;
+}
+
 .specsBox{
     display: flex;
     padding-top: 40px;
